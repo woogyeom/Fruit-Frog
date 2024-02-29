@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02b699de8020d1146b817e242336b763, type: 3}
+  m_Name: Saw
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemId: 0
+  itemName: Saw
+  itemDesc: Damage + {0} Projectile + {1}
+  itemIcon: {fileID: 21300000, guid: ca5ce7f3f3ac3bb499d37119b1867d7e, type: 3}
+  baseDamage: 5
+  baseCount: 1
+  basePer: -100
+  damages: 0100000001000000010000000200000002000000
+  counts: 0100000001000000010000000000000000000000
+  per: 
+  projspeed: -150
+  atkspeed: 0
+  projectile: {fileID: 5060130925936825324, guid: a0f9f74b9754dce458e4b7a69c03ad38, type: 3}

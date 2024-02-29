@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 7bf8ad5427b106f4181373f376ad09b2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd4b749e006ccf40a0cbc3d2e6204b7
+      internalID: 33873898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 199
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b864be03f9b97438afaee25d9c5161
+      internalID: 1189981956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 195
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d4e0644ca073f4db51f7790695c500
+      internalID: -13525781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19215393667c5fb4c90503f8a59ee202
+      internalID: -1638989091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 132
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1d62f87c1eee94eb37f5192e86e656
+      internalID: -2125766116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4bb1d4cae56784b99fabfd7e4ee4bc
+      internalID: -4857051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda64371bce7fa34fa19c691cceb8cef
+      internalID: -1848970389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d80f23a1763de44b885d766b3206d5
+      internalID: -93909512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 70
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4ac8a7a9ffc043a839796de38f160
+      internalID: 618643170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6201ab2028426cd40b73954bb136d255
+      internalID: 9877270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b8bf3c888b014ebc9a67e343b9476
+      internalID: 924356855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 7
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd2e9b1d3d6a9459a3a8afaaf3f938
+      internalID: -1196493159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eff12af7a7d714a977245c501d1834
+      internalID: -1076570795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d12068032c5ff142b49822e594b1331
+      internalID: -1760967040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 62
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0138839fd5c474c8f4a941bb43821a
+      internalID: 2058294840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Experience_Orb_29_JE2_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 62
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7689a7deea89942bd7cb645caa809d
+      internalID: 1122270828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -120, y: -68}
+      - {x: -120, y: -120}
+      - {x: -77, y: -120}
+      - {x: -68, y: -116}
+      - {x: -68, y: -69}
+      - {x: -69, y: -68}
+    - - {x: -50, y: -68}
+      - {x: -57, y: -71}
+      - {x: -57, y: -116}
+      - {x: -46, y: -120}
+      - {x: -7, y: -120}
+      - {x: -5, y: -118}
+      - {x: -5, y: -77}
+      - {x: -8, y: -68}
+    - - {x: 5, y: -68}
+      - {x: 5, y: -107}
+      - {x: 9, y: -120}
+      - {x: 52, y: -120}
+      - {x: 57, y: -110}
+      - {x: 57, y: -68}
+    - - {x: 78, y: -68}
+      - {x: 68, y: -73}
+      - {x: 68, y: -108}
+      - {x: 71, y: -120}
+      - {x: 109, y: -120}
+      - {x: 120, y: -109}
+      - {x: 120, y: -79}
+      - {x: 109, y: -68}
+    - - {x: 9, y: 61}
+      - {x: 0, y: 45}
+      - {x: 0, y: 18}
+      - {x: -1, y: 48}
+      - {x: 0, y: 61}
+      - {x: -96, y: 61}
+      - {x: -125, y: 44}
+      - {x: -125, y: -59}
+      - {x: -118, y: -65}
+      - {x: 65, y: -65}
+      - {x: 65, y: 60}
+      - {x: 60, y: 61}
+    - - {x: 71, y: -5}
+      - {x: 68, y: -15}
+      - {x: 68, y: -52}
+      - {x: 78, y: -57}
+      - {x: 108, y: -57}
+      - {x: 120, y: -45}
+      - {x: 120, y: -16}
+      - {x: 109, y: -5}
+    - - {x: 109, y: 61}
+      - {x: 69, y: 61}
+      - {x: 64, y: 51}
+      - {x: 64, y: 5}
+      - {x: 78, y: 1}
+      - {x: 116, y: 1}
+      - {x: 124, y: 14}
+      - {x: 124, y: 47}
+    - - {x: -73, y: 57}
+      - {x: -108, y: 57}
+      - {x: -120, y: 54}
+      - {x: -120, y: 16}
+      - {x: -109, y: 5}
+      - {x: -79, y: 5}
+      - {x: -68, y: 16}
+      - {x: -68, y: 47}
+    - - {x: 16, y: 120}
+      - {x: 5, y: 108}
+      - {x: 5, y: 79}
+      - {x: 16, y: 68}
+      - {x: 47, y: 68}
+      - {x: 57, y: 73}
+      - {x: 57, y: 109}
+      - {x: 54, y: 120}
+    - - {x: 71, y: 120}
+      - {x: 68, y: 111}
+      - {x: 68, y: 68}
+      - {x: 109, y: 68}
+      - {x: 120, y: 71}
+      - {x: 120, y: 109}
+      - {x: 108, y: 120}
+    - - {x: -46, y: 116}
+      - {x: -53, y: 110}
+      - {x: -53, y: 72}
+      - {x: -9, y: 72}
+      - {x: -9, y: 108}
+      - {x: -16, y: 116}
+    - - {x: -112, y: 112}
+      - {x: -112, y: 80}
+      - {x: -108, y: 76}
+      - {x: -76, y: 76}
+      - {x: -76, y: 112}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Experience_Orb_29_JE2_0: 33873898
+      Experience_Orb_29_JE2_1: 1189981956
+      Experience_Orb_29_JE2_10: 1122270828
+      Experience_Orb_29_JE2_11: 618643170
+      Experience_Orb_29_JE2_12: 9877270
+      Experience_Orb_29_JE2_13: 924356855
+      Experience_Orb_29_JE2_14: 9877270
+      Experience_Orb_29_JE2_15: -1076570795
+      Experience_Orb_29_JE2_2: -1638989091
+      Experience_Orb_29_JE2_3: -2125766116
+      Experience_Orb_29_JE2_4: -4857051
+      Experience_Orb_29_JE2_5: -1848970389
+      Experience_Orb_29_JE2_6: -93909512
+      Experience_Orb_29_JE2_7: -1760967040
+      Experience_Orb_29_JE2_8: 618643170
+      Experience_Orb_29_JE2_9: -1196493159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
