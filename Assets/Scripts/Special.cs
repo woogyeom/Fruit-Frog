@@ -39,7 +39,7 @@ public class Special : MonoBehaviour
     {
         Weapon[] weapons = transform.parent.GetComponentsInChildren<Weapon>();
         foreach (Weapon weapon in weapons) {
-            weapon.damage += 1;
+            weapon.damage += 3;
         }
     }
 
@@ -59,7 +59,7 @@ public class Special : MonoBehaviour
     void MaxHealthUp()
     {
         GameManager.instance.maxHealth += 20;
-        GameManager.instance.health = Mathf.Min(GameManager.instance.health + 10, GameManager.instance.maxHealth);
+        GameManager.instance.health = Mathf.Min(GameManager.instance.health + 30, GameManager.instance.maxHealth);
     }
 
     void MagnetUp()

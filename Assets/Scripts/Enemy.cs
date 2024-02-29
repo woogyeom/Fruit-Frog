@@ -178,10 +178,10 @@ public class Enemy : MonoBehaviour
     IEnumerator KnockBack()
     {
         isHit = true;
-        yield return wait; // 1프레임 대기
+        yield return wait;
         Vector3 playerPos = GameManager.instance.player.transform.position;
         Vector3 dirVec = transform.position - playerPos;
-        rigid.AddForce(dirVec.normalized * 5, ForceMode2D.Impulse);
+        rigid.AddForce(dirVec.normalized * 3, ForceMode2D.Impulse);
         yield return wait;
         isHit = false;
     }
@@ -197,6 +197,16 @@ public class Enemy : MonoBehaviour
         GameObject expPoint = GameManager.instance.pool.Get(6);
         expPoint.transform.position = transform.position;
         expPoint.GetComponent<ExpPoint>().Init(exp);
+
+        int chance = Random.Range(0, 100);
+        if (chance < 1)
+        {
+            Vector2 randomDirection = Random.insideUnitCircle.normalized * 0.5f;
+            Vector3 spawnPosition = transform.position + new Vector3(randomDirection.x, randomDirection.y, 0);
+
+            GameObject strawberry = GameManager.instance.pool.Get(9);
+            strawberry.transform.position = spawnPosition;
+        }
 
         isDissolving = true;
         yield return new WaitForSeconds(1f);

@@ -53,7 +53,8 @@ public class HUD : MonoBehaviour
             case InfoType.Health:
                 float curHealth = GameManager.instance.health;
                 float maxHealth = GameManager.instance.maxHealth;
-                mySlider.value = curHealth / maxHealth;
+                mySlider.value = Mathf.Lerp(lastVal, curHealth / maxHealth, Time.deltaTime * 4);
+                lastVal = mySlider.value;
                 break;
         }
     }

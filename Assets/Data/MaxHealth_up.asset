@@ -15,7 +15,7 @@ MonoBehaviour:
   itemType: 2
   itemId: 2
   itemName: Max Health Up
-  itemDesc: Max Health +20 and Heal 10 Health
+  itemDesc: Max Health +20 and Heal 30 Health
   itemIcon: {fileID: -3246028407001408874, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
   baseDamage: 0
   baseCount: 0

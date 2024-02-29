@@ -17,10 +17,10 @@ MonoBehaviour:
   itemName: Power Up
   itemDesc: Damage + {0} for All Weapons
   itemIcon: {fileID: -3246028407001408874, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
-  baseDamage: 1
+  baseDamage: 3
   baseCount: 0
   basePer: 0
-  damages: 010000000100000001000000
+  damages: 030000000300000003000000
   counts: 
   per: 
   projspeed: 0

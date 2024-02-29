@@ -373,14 +373,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   speed: 2
-  health: 500
-  maxHealth: 500
+  health: 1000
+  maxHealth: 1000
   atk: 10
-  exp: 10
+  exp: 150
   isCharging: 0
   chargeTimer: 0
   chargeDuration: 0.75
-  chargeRange: 4
+  chargeRange: 5
   chargeSpeedMultiplier: 3.5
   isChargeCooldown: 0
   chargeCooldown: 10

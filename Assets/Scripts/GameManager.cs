@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
     [Header("# Game Control")]
     public bool isLive;
     public float gameTime;
-    public float maxGameTime = 10 * 60f;
+    public bool isBossSpawned;
     [Header("# Player Info")]
     public int health;
     public int maxHealth;
@@ -63,13 +63,8 @@ public class GameManager : MonoBehaviour
         }
         gameTime += Time.deltaTime;
 
-        if (gameTime > maxGameTime)
-        {
-            gameTime = maxGameTime;
-        }
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            //LvlUp();
+        if (Input.GetKeyDown(KeyCode.Space)) {
+            gameTime += 470;
         }
     }
 
@@ -87,7 +82,7 @@ public class GameManager : MonoBehaviour
     {
         level++;
         exp -= nextEXP;
-        nextEXP += 1;
+        nextEXP += 15;
         uiLevelUp.Show();
     }
 
