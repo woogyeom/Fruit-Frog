@@ -2,7 +2,8 @@
 
 Another Vampire Survivors like game.  
 
-![image](https://github.com/woogyeom/Fruit-Frog/assets/17395464/85a84219-a23f-4b67-8419-05583e122552)
+![309144506-85a84219-a23f-4b67-8419-05583e122552](https://github.com/user-attachments/assets/fb5a9f62-7eae-4fdc-9a78-9dec82104fa6)
+
 
 
 Itch.io  
